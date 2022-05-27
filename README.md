@@ -10,9 +10,9 @@ First we will be creating a lambda function to stop/start testing instance in or
 ## Requirements
 
 - Boto module
-
-> # pip3 install boto3
-
-  - Python code to stop/start instance (stop.py, start.py)
+```
+ # pip3 install boto3
+```
+    - Python code to stop/start instance (stop.py, start.py)
 
 ## Provisioning
